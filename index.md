@@ -1,13 +1,13 @@
-# Privacy Policy — DuoFlash
+# DeskWright privacy policy
 
-**Last updated:** October 20, 2026
+**Last updated:** October 21, 2026
 
-DuoFlash ("the app") is a flashcard study app for iPhone. This policy
+DeskWright ("the app") is a flashcard study app for iPhone. This policy
 describes how the app handles your information.
 
 ## Summary
 
-- DuoFlash does **not** collect, transmit, or share any personal data.
+- DeskWright does **not** collect, transmit, or share any personal data.
 - All decks, cards, study history, and settings are stored **only on your
   device**.
 - The app works **entirely offline** and makes **no network requests**.
@@ -15,7 +15,7 @@ describes how the app handles your information.
 
 ## Data stored on your device
 
-DuoFlash stores the following locally on your device:
+DeskWright stores the following locally on your device:
 
 - Decks and cards you create or import
 - Study sessions and accuracy history
@@ -23,11 +23,11 @@ DuoFlash stores the following locally on your device:
 
 This data is kept in the app's local storage and is not sent anywhere. It is
 included in your device's standard backups (iCloud or local) according to your
-own device settings; DuoFlash does not operate any cloud service.
+own device settings; DeskWright does not operate any cloud service.
 
 ## Data we do not collect
 
-DuoFlash does not collect, and has no access to:
+DeskWright does not collect, and has no access to:
 
 - Personal identifiers (name, email, phone number, etc.)
 - Location
@@ -38,7 +38,7 @@ DuoFlash does not collect, and has no access to:
 
 ## Third-party services
 
-DuoFlash does not integrate any third-party analytics, advertising, or
+DeskWright does not integrate any third-party analytics, advertising, or
 tracking SDKs. Imports (`.json`, `.cards`, `.apkg`) are processed locally on
 your device; imported media files are ignored.
 
@@ -49,7 +49,7 @@ app removes all locally stored data.
 
 ## Children
 
-DuoFlash does not knowingly collect data from anyone. Because no data is
+DeskWright does not knowingly collect data from anyone. Because no data is
 collected at all, the app is suitable for users of all ages.
 
 ## Changes to this policy
@@ -60,4 +60,4 @@ a new "Last updated" date.
 ## Contact
 
 Questions about this policy can be filed as an issue at
-<https://github.com/oherna25/duoFlash/issues>.
+<https://github.com/oherna25/deskwright-support/issues>.
